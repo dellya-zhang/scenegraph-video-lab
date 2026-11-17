@@ -1,0 +1,2484 @@
+{
+  "schema_version": "1.0",
+  "fps": 12,
+  "width": 640,
+  "height": 360,
+  "provenance": "color components + nearest-center tracking + geometric relations",
+  "frames": [
+    {
+      "frame": 0,
+      "time": 0.0,
+      "nodes": [
+        {
+          "id": 2,
+          "label": "blue_object",
+          "color": "blue",
+          "bbox": [
+            0.8125,
+            0.47222,
+            0.07656,
+            0.11944
+          ]
+        },
+        {
+          "id": 3,
+          "label": "green_object",
+          "color": "green",
+          "bbox": [
+            0.45312,
+            0.75,
+            0.07969,
+            0.11389
+          ]
+        }
+      ],
+      "edges": [
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "right_of"
+        },
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "above"
+        }
+      ]
+    },
+    {
+      "frame": 1,
+      "time": 0.0833,
+      "nodes": [
+        {
+          "id": 2,
+          "label": "blue_object",
+          "color": "blue",
+          "bbox": [
+            0.8,
+            0.47222,
+            0.07656,
+            0.11944
+          ]
+        },
+        {
+          "id": 3,
+          "label": "green_object",
+          "color": "green",
+          "bbox": [
+            0.45312,
+            0.75,
+            0.07969,
+            0.11389
+          ]
+        }
+      ],
+      "edges": [
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "right_of"
+        },
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "above"
+        }
+      ]
+    },
+    {
+      "frame": 2,
+      "time": 0.1667,
+      "nodes": [
+        {
+          "id": 2,
+          "label": "blue_object",
+          "color": "blue",
+          "bbox": [
+            0.7875,
+            0.47222,
+            0.07656,
+            0.11944
+          ]
+        },
+        {
+          "id": 3,
+          "label": "green_object",
+          "color": "green",
+          "bbox": [
+            0.45312,
+            0.75,
+            0.07969,
+            0.11389
+          ]
+        }
+      ],
+      "edges": [
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "right_of"
+        },
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "above"
+        }
+      ]
+    },
+    {
+      "frame": 3,
+      "time": 0.25,
+      "nodes": [
+        {
+          "id": 2,
+          "label": "blue_object",
+          "color": "blue",
+          "bbox": [
+            0.775,
+            0.47222,
+            0.07656,
+            0.11944
+          ]
+        },
+        {
+          "id": 3,
+          "label": "green_object",
+          "color": "green",
+          "bbox": [
+            0.45312,
+            0.75,
+            0.07969,
+            0.11389
+          ]
+        }
+      ],
+      "edges": [
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "right_of"
+        },
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "above"
+        }
+      ]
+    },
+    {
+      "frame": 4,
+      "time": 0.3333,
+      "nodes": [
+        {
+          "id": 2,
+          "label": "blue_object",
+          "color": "blue",
+          "bbox": [
+            0.7625,
+            0.47222,
+            0.07656,
+            0.11944
+          ]
+        },
+        {
+          "id": 3,
+          "label": "green_object",
+          "color": "green",
+          "bbox": [
+            0.45312,
+            0.75,
+            0.07969,
+            0.11389
+          ]
+        }
+      ],
+      "edges": [
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "right_of"
+        },
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "above"
+        }
+      ]
+    },
+    {
+      "frame": 5,
+      "time": 0.4167,
+      "nodes": [
+        {
+          "id": 2,
+          "label": "blue_object",
+          "color": "blue",
+          "bbox": [
+            0.75,
+            0.47222,
+            0.07656,
+            0.11944
+          ]
+        },
+        {
+          "id": 3,
+          "label": "green_object",
+          "color": "green",
+          "bbox": [
+            0.45312,
+            0.75,
+            0.07969,
+            0.11389
+          ]
+        }
+      ],
+      "edges": [
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "right_of"
+        },
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "above"
+        }
+      ]
+    },
+    {
+      "frame": 6,
+      "time": 0.5,
+      "nodes": [
+        {
+          "id": 2,
+          "label": "blue_object",
+          "color": "blue",
+          "bbox": [
+            0.7375,
+            0.47222,
+            0.07656,
+            0.11944
+          ]
+        },
+        {
+          "id": 3,
+          "label": "green_object",
+          "color": "green",
+          "bbox": [
+            0.45312,
+            0.75,
+            0.07969,
+            0.11389
+          ]
+        }
+      ],
+      "edges": [
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "right_of"
+        },
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "above"
+        }
+      ]
+    },
+    {
+      "frame": 7,
+      "time": 0.5833,
+      "nodes": [
+        {
+          "id": 2,
+          "label": "blue_object",
+          "color": "blue",
+          "bbox": [
+            0.725,
+            0.47222,
+            0.07656,
+            0.11944
+          ]
+        },
+        {
+          "id": 3,
+          "label": "green_object",
+          "color": "green",
+          "bbox": [
+            0.45312,
+            0.75,
+            0.07969,
+            0.11389
+          ]
+        }
+      ],
+      "edges": [
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "right_of"
+        },
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "above"
+        }
+      ]
+    },
+    {
+      "frame": 8,
+      "time": 0.6667,
+      "nodes": [
+        {
+          "id": 2,
+          "label": "blue_object",
+          "color": "blue",
+          "bbox": [
+            0.71094,
+            0.47222,
+            0.07656,
+            0.11944
+          ]
+        },
+        {
+          "id": 3,
+          "label": "green_object",
+          "color": "green",
+          "bbox": [
+            0.45312,
+            0.75,
+            0.07969,
+            0.11389
+          ]
+        }
+      ],
+      "edges": [
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "right_of"
+        },
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "above"
+        }
+      ]
+    },
+    {
+      "frame": 9,
+      "time": 0.75,
+      "nodes": [
+        {
+          "id": 2,
+          "label": "blue_object",
+          "color": "blue",
+          "bbox": [
+            0.69844,
+            0.47222,
+            0.07656,
+            0.11944
+          ]
+        },
+        {
+          "id": 3,
+          "label": "green_object",
+          "color": "green",
+          "bbox": [
+            0.45312,
+            0.75,
+            0.07969,
+            0.11389
+          ]
+        }
+      ],
+      "edges": [
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "right_of"
+        },
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "above"
+        }
+      ]
+    },
+    {
+      "frame": 10,
+      "time": 0.8333,
+      "nodes": [
+        {
+          "id": 2,
+          "label": "blue_object",
+          "color": "blue",
+          "bbox": [
+            0.68594,
+            0.47222,
+            0.07656,
+            0.11944
+          ]
+        },
+        {
+          "id": 3,
+          "label": "green_object",
+          "color": "green",
+          "bbox": [
+            0.45312,
+            0.75,
+            0.07969,
+            0.11389
+          ]
+        }
+      ],
+      "edges": [
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "right_of"
+        },
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "above"
+        }
+      ]
+    },
+    {
+      "frame": 11,
+      "time": 0.9167,
+      "nodes": [
+        {
+          "id": 2,
+          "label": "blue_object",
+          "color": "blue",
+          "bbox": [
+            0.67344,
+            0.47222,
+            0.07656,
+            0.11944
+          ]
+        },
+        {
+          "id": 3,
+          "label": "green_object",
+          "color": "green",
+          "bbox": [
+            0.45312,
+            0.75,
+            0.07969,
+            0.11389
+          ]
+        }
+      ],
+      "edges": [
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "right_of"
+        },
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "above"
+        }
+      ]
+    },
+    {
+      "frame": 12,
+      "time": 1.0,
+      "nodes": [
+        {
+          "id": 2,
+          "label": "blue_object",
+          "color": "blue",
+          "bbox": [
+            0.66094,
+            0.47222,
+            0.07656,
+            0.11944
+          ]
+        },
+        {
+          "id": 3,
+          "label": "green_object",
+          "color": "green",
+          "bbox": [
+            0.45312,
+            0.75,
+            0.07969,
+            0.11389
+          ]
+        }
+      ],
+      "edges": [
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "right_of"
+        },
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "above"
+        }
+      ]
+    },
+    {
+      "frame": 13,
+      "time": 1.0833,
+      "nodes": [
+        {
+          "id": 2,
+          "label": "blue_object",
+          "color": "blue",
+          "bbox": [
+            0.64844,
+            0.47222,
+            0.07656,
+            0.11944
+          ]
+        },
+        {
+          "id": 3,
+          "label": "green_object",
+          "color": "green",
+          "bbox": [
+            0.45312,
+            0.75,
+            0.07969,
+            0.11389
+          ]
+        }
+      ],
+      "edges": [
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "right_of"
+        },
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "above"
+        }
+      ]
+    },
+    {
+      "frame": 14,
+      "time": 1.1667,
+      "nodes": [
+        {
+          "id": 2,
+          "label": "blue_object",
+          "color": "blue",
+          "bbox": [
+            0.63594,
+            0.47222,
+            0.07656,
+            0.11944
+          ]
+        },
+        {
+          "id": 3,
+          "label": "green_object",
+          "color": "green",
+          "bbox": [
+            0.45312,
+            0.75,
+            0.07969,
+            0.11389
+          ]
+        }
+      ],
+      "edges": [
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "right_of"
+        },
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "above"
+        }
+      ]
+    },
+    {
+      "frame": 15,
+      "time": 1.25,
+      "nodes": [
+        {
+          "id": 2,
+          "label": "blue_object",
+          "color": "blue",
+          "bbox": [
+            0.62187,
+            0.47222,
+            0.07656,
+            0.11944
+          ]
+        },
+        {
+          "id": 3,
+          "label": "green_object",
+          "color": "green",
+          "bbox": [
+            0.45312,
+            0.75,
+            0.07969,
+            0.11389
+          ]
+        }
+      ],
+      "edges": [
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "right_of"
+        },
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "above"
+        }
+      ]
+    },
+    {
+      "frame": 16,
+      "time": 1.3333,
+      "nodes": [
+        {
+          "id": 2,
+          "label": "blue_object",
+          "color": "blue",
+          "bbox": [
+            0.60938,
+            0.47222,
+            0.07656,
+            0.11944
+          ]
+        },
+        {
+          "id": 3,
+          "label": "green_object",
+          "color": "green",
+          "bbox": [
+            0.45312,
+            0.75,
+            0.07969,
+            0.11389
+          ]
+        }
+      ],
+      "edges": [
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "right_of"
+        },
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "above"
+        }
+      ]
+    },
+    {
+      "frame": 17,
+      "time": 1.4167,
+      "nodes": [
+        {
+          "id": 2,
+          "label": "blue_object",
+          "color": "blue",
+          "bbox": [
+            0.59688,
+            0.47222,
+            0.07656,
+            0.11944
+          ]
+        },
+        {
+          "id": 3,
+          "label": "green_object",
+          "color": "green",
+          "bbox": [
+            0.45312,
+            0.75,
+            0.07969,
+            0.11389
+          ]
+        }
+      ],
+      "edges": [
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "right_of"
+        },
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "above"
+        }
+      ]
+    },
+    {
+      "frame": 18,
+      "time": 1.5,
+      "nodes": [
+        {
+          "id": 2,
+          "label": "blue_object",
+          "color": "blue",
+          "bbox": [
+            0.58437,
+            0.47222,
+            0.07656,
+            0.11944
+          ]
+        },
+        {
+          "id": 3,
+          "label": "green_object",
+          "color": "green",
+          "bbox": [
+            0.45312,
+            0.75,
+            0.07969,
+            0.11389
+          ]
+        }
+      ],
+      "edges": [
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "right_of"
+        },
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "above"
+        }
+      ]
+    },
+    {
+      "frame": 19,
+      "time": 1.5833,
+      "nodes": [
+        {
+          "id": 2,
+          "label": "blue_object",
+          "color": "blue",
+          "bbox": [
+            0.57188,
+            0.47222,
+            0.07656,
+            0.11944
+          ]
+        },
+        {
+          "id": 3,
+          "label": "green_object",
+          "color": "green",
+          "bbox": [
+            0.45312,
+            0.75,
+            0.07969,
+            0.11389
+          ]
+        }
+      ],
+      "edges": [
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "right_of"
+        },
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "above"
+        },
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "near"
+        }
+      ]
+    },
+    {
+      "frame": 20,
+      "time": 1.6667,
+      "nodes": [
+        {
+          "id": 2,
+          "label": "blue_object",
+          "color": "blue",
+          "bbox": [
+            0.55937,
+            0.47222,
+            0.07656,
+            0.11944
+          ]
+        },
+        {
+          "id": 3,
+          "label": "green_object",
+          "color": "green",
+          "bbox": [
+            0.45312,
+            0.75,
+            0.07969,
+            0.11389
+          ]
+        }
+      ],
+      "edges": [
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "right_of"
+        },
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "above"
+        },
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "near"
+        }
+      ]
+    },
+    {
+      "frame": 21,
+      "time": 1.75,
+      "nodes": [
+        {
+          "id": 2,
+          "label": "blue_object",
+          "color": "blue",
+          "bbox": [
+            0.54688,
+            0.47222,
+            0.07656,
+            0.11944
+          ]
+        },
+        {
+          "id": 3,
+          "label": "green_object",
+          "color": "green",
+          "bbox": [
+            0.45312,
+            0.75,
+            0.07969,
+            0.11389
+          ]
+        }
+      ],
+      "edges": [
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "right_of"
+        },
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "above"
+        },
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "near"
+        }
+      ]
+    },
+    {
+      "frame": 22,
+      "time": 1.8333,
+      "nodes": [
+        {
+          "id": 2,
+          "label": "blue_object",
+          "color": "blue",
+          "bbox": [
+            0.53438,
+            0.47222,
+            0.07656,
+            0.11944
+          ]
+        },
+        {
+          "id": 3,
+          "label": "green_object",
+          "color": "green",
+          "bbox": [
+            0.45312,
+            0.75,
+            0.07969,
+            0.11389
+          ]
+        }
+      ],
+      "edges": [
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "right_of"
+        },
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "above"
+        },
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "near"
+        }
+      ]
+    },
+    {
+      "frame": 23,
+      "time": 1.9167,
+      "nodes": [
+        {
+          "id": 2,
+          "label": "blue_object",
+          "color": "blue",
+          "bbox": [
+            0.52031,
+            0.47222,
+            0.07656,
+            0.11944
+          ]
+        },
+        {
+          "id": 3,
+          "label": "green_object",
+          "color": "green",
+          "bbox": [
+            0.45312,
+            0.75,
+            0.07969,
+            0.11389
+          ]
+        }
+      ],
+      "edges": [
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "right_of"
+        },
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "above"
+        },
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "near"
+        }
+      ]
+    },
+    {
+      "frame": 24,
+      "time": 2.0,
+      "nodes": [
+        {
+          "id": 2,
+          "label": "blue_object",
+          "color": "blue",
+          "bbox": [
+            0.50781,
+            0.47222,
+            0.07656,
+            0.11944
+          ]
+        },
+        {
+          "id": 3,
+          "label": "green_object",
+          "color": "green",
+          "bbox": [
+            0.45312,
+            0.75,
+            0.07969,
+            0.11389
+          ]
+        }
+      ],
+      "edges": [
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "right_of"
+        },
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "above"
+        },
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "near"
+        }
+      ]
+    },
+    {
+      "frame": 25,
+      "time": 2.0833,
+      "nodes": [
+        {
+          "id": 2,
+          "label": "blue_object",
+          "color": "blue",
+          "bbox": [
+            0.49531,
+            0.47222,
+            0.07656,
+            0.11944
+          ]
+        },
+        {
+          "id": 3,
+          "label": "green_object",
+          "color": "green",
+          "bbox": [
+            0.45312,
+            0.75,
+            0.07969,
+            0.11389
+          ]
+        }
+      ],
+      "edges": [
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "right_of"
+        },
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "above"
+        },
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "near"
+        }
+      ]
+    },
+    {
+      "frame": 26,
+      "time": 2.1667,
+      "nodes": [
+        {
+          "id": 2,
+          "label": "blue_object",
+          "color": "blue",
+          "bbox": [
+            0.48281,
+            0.47222,
+            0.07656,
+            0.11944
+          ]
+        },
+        {
+          "id": 3,
+          "label": "green_object",
+          "color": "green",
+          "bbox": [
+            0.45312,
+            0.75,
+            0.07969,
+            0.11389
+          ]
+        }
+      ],
+      "edges": [
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "right_of"
+        },
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "above"
+        },
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "near"
+        }
+      ]
+    },
+    {
+      "frame": 27,
+      "time": 2.25,
+      "nodes": [
+        {
+          "id": 2,
+          "label": "blue_object",
+          "color": "blue",
+          "bbox": [
+            0.47031,
+            0.47222,
+            0.07656,
+            0.11944
+          ]
+        },
+        {
+          "id": 3,
+          "label": "green_object",
+          "color": "green",
+          "bbox": [
+            0.45312,
+            0.75,
+            0.07969,
+            0.11389
+          ]
+        }
+      ],
+      "edges": [
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "above"
+        },
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "near"
+        }
+      ]
+    },
+    {
+      "frame": 28,
+      "time": 2.3333,
+      "nodes": [
+        {
+          "id": 2,
+          "label": "blue_object",
+          "color": "blue",
+          "bbox": [
+            0.45781,
+            0.47222,
+            0.07656,
+            0.11944
+          ]
+        },
+        {
+          "id": 3,
+          "label": "green_object",
+          "color": "green",
+          "bbox": [
+            0.45312,
+            0.75,
+            0.07969,
+            0.11389
+          ]
+        }
+      ],
+      "edges": [
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "above"
+        },
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "near"
+        }
+      ]
+    },
+    {
+      "frame": 29,
+      "time": 2.4167,
+      "nodes": [
+        {
+          "id": 2,
+          "label": "blue_object",
+          "color": "blue",
+          "bbox": [
+            0.44531,
+            0.47222,
+            0.07656,
+            0.11944
+          ]
+        },
+        {
+          "id": 3,
+          "label": "green_object",
+          "color": "green",
+          "bbox": [
+            0.45312,
+            0.75,
+            0.07969,
+            0.11389
+          ]
+        }
+      ],
+      "edges": [
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "above"
+        },
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "near"
+        }
+      ]
+    },
+    {
+      "frame": 30,
+      "time": 2.5,
+      "nodes": [
+        {
+          "id": 2,
+          "label": "blue_object",
+          "color": "blue",
+          "bbox": [
+            0.43125,
+            0.47222,
+            0.07656,
+            0.11944
+          ]
+        },
+        {
+          "id": 3,
+          "label": "green_object",
+          "color": "green",
+          "bbox": [
+            0.45312,
+            0.75,
+            0.07969,
+            0.11389
+          ]
+        }
+      ],
+      "edges": [
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "above"
+        },
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "near"
+        }
+      ]
+    },
+    {
+      "frame": 31,
+      "time": 2.5833,
+      "nodes": [
+        {
+          "id": 2,
+          "label": "blue_object",
+          "color": "blue",
+          "bbox": [
+            0.41875,
+            0.47222,
+            0.07656,
+            0.11944
+          ]
+        },
+        {
+          "id": 3,
+          "label": "green_object",
+          "color": "green",
+          "bbox": [
+            0.45312,
+            0.75,
+            0.07969,
+            0.11389
+          ]
+        }
+      ],
+      "edges": [
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "left_of"
+        },
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "above"
+        },
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "near"
+        }
+      ]
+    },
+    {
+      "frame": 32,
+      "time": 2.6667,
+      "nodes": [
+        {
+          "id": 2,
+          "label": "blue_object",
+          "color": "blue",
+          "bbox": [
+            0.40625,
+            0.47222,
+            0.07656,
+            0.11944
+          ]
+        },
+        {
+          "id": 3,
+          "label": "green_object",
+          "color": "green",
+          "bbox": [
+            0.45312,
+            0.75,
+            0.07969,
+            0.11389
+          ]
+        }
+      ],
+      "edges": [
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "left_of"
+        },
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "above"
+        },
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "near"
+        }
+      ]
+    },
+    {
+      "frame": 33,
+      "time": 2.75,
+      "nodes": [
+        {
+          "id": 2,
+          "label": "blue_object",
+          "color": "blue",
+          "bbox": [
+            0.39375,
+            0.47222,
+            0.07656,
+            0.11944
+          ]
+        },
+        {
+          "id": 3,
+          "label": "green_object",
+          "color": "green",
+          "bbox": [
+            0.45312,
+            0.75,
+            0.07969,
+            0.11389
+          ]
+        }
+      ],
+      "edges": [
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "left_of"
+        },
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "above"
+        },
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "near"
+        }
+      ]
+    },
+    {
+      "frame": 34,
+      "time": 2.8333,
+      "nodes": [
+        {
+          "id": 2,
+          "label": "blue_object",
+          "color": "blue",
+          "bbox": [
+            0.38125,
+            0.47222,
+            0.07656,
+            0.11944
+          ]
+        },
+        {
+          "id": 3,
+          "label": "green_object",
+          "color": "green",
+          "bbox": [
+            0.45312,
+            0.75,
+            0.07969,
+            0.11389
+          ]
+        }
+      ],
+      "edges": [
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "left_of"
+        },
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "above"
+        },
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "near"
+        }
+      ]
+    },
+    {
+      "frame": 35,
+      "time": 2.9167,
+      "nodes": [
+        {
+          "id": 2,
+          "label": "blue_object",
+          "color": "blue",
+          "bbox": [
+            0.36875,
+            0.47222,
+            0.07656,
+            0.11944
+          ]
+        },
+        {
+          "id": 3,
+          "label": "green_object",
+          "color": "green",
+          "bbox": [
+            0.45312,
+            0.75,
+            0.07969,
+            0.11389
+          ]
+        }
+      ],
+      "edges": [
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "left_of"
+        },
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "above"
+        },
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "near"
+        }
+      ]
+    },
+    {
+      "frame": 36,
+      "time": 3.0,
+      "nodes": [
+        {
+          "id": 2,
+          "label": "blue_object",
+          "color": "blue",
+          "bbox": [
+            0.35625,
+            0.47222,
+            0.07656,
+            0.11944
+          ]
+        },
+        {
+          "id": 3,
+          "label": "green_object",
+          "color": "green",
+          "bbox": [
+            0.45312,
+            0.75,
+            0.07969,
+            0.11389
+          ]
+        }
+      ],
+      "edges": [
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "left_of"
+        },
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "above"
+        },
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "near"
+        }
+      ]
+    },
+    {
+      "frame": 37,
+      "time": 3.0833,
+      "nodes": [
+        {
+          "id": 2,
+          "label": "blue_object",
+          "color": "blue",
+          "bbox": [
+            0.34219,
+            0.47222,
+            0.07656,
+            0.11944
+          ]
+        },
+        {
+          "id": 3,
+          "label": "green_object",
+          "color": "green",
+          "bbox": [
+            0.45312,
+            0.75,
+            0.07969,
+            0.11389
+          ]
+        }
+      ],
+      "edges": [
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "left_of"
+        },
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "above"
+        },
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "near"
+        }
+      ]
+    },
+    {
+      "frame": 38,
+      "time": 3.1667,
+      "nodes": [
+        {
+          "id": 2,
+          "label": "blue_object",
+          "color": "blue",
+          "bbox": [
+            0.32969,
+            0.47222,
+            0.07656,
+            0.11944
+          ]
+        },
+        {
+          "id": 3,
+          "label": "green_object",
+          "color": "green",
+          "bbox": [
+            0.45312,
+            0.75,
+            0.07969,
+            0.11389
+          ]
+        }
+      ],
+      "edges": [
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "left_of"
+        },
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "above"
+        }
+      ]
+    },
+    {
+      "frame": 39,
+      "time": 3.25,
+      "nodes": [
+        {
+          "id": 2,
+          "label": "blue_object",
+          "color": "blue",
+          "bbox": [
+            0.31719,
+            0.47222,
+            0.07656,
+            0.11944
+          ]
+        },
+        {
+          "id": 3,
+          "label": "green_object",
+          "color": "green",
+          "bbox": [
+            0.45312,
+            0.75,
+            0.07969,
+            0.11389
+          ]
+        }
+      ],
+      "edges": [
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "left_of"
+        },
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "above"
+        }
+      ]
+    },
+    {
+      "frame": 40,
+      "time": 3.3333,
+      "nodes": [
+        {
+          "id": 2,
+          "label": "blue_object",
+          "color": "blue",
+          "bbox": [
+            0.30469,
+            0.47222,
+            0.07656,
+            0.11944
+          ]
+        },
+        {
+          "id": 3,
+          "label": "green_object",
+          "color": "green",
+          "bbox": [
+            0.45312,
+            0.75,
+            0.07969,
+            0.11389
+          ]
+        }
+      ],
+      "edges": [
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "left_of"
+        },
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "above"
+        }
+      ]
+    },
+    {
+      "frame": 41,
+      "time": 3.4167,
+      "nodes": [
+        {
+          "id": 2,
+          "label": "blue_object",
+          "color": "blue",
+          "bbox": [
+            0.29219,
+            0.47222,
+            0.07656,
+            0.11944
+          ]
+        },
+        {
+          "id": 3,
+          "label": "green_object",
+          "color": "green",
+          "bbox": [
+            0.45312,
+            0.75,
+            0.07969,
+            0.11389
+          ]
+        }
+      ],
+      "edges": [
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "left_of"
+        },
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "above"
+        }
+      ]
+    },
+    {
+      "frame": 42,
+      "time": 3.5,
+      "nodes": [
+        {
+          "id": 2,
+          "label": "blue_object",
+          "color": "blue",
+          "bbox": [
+            0.27969,
+            0.47222,
+            0.07656,
+            0.11944
+          ]
+        },
+        {
+          "id": 3,
+          "label": "green_object",
+          "color": "green",
+          "bbox": [
+            0.45312,
+            0.75,
+            0.07969,
+            0.11389
+          ]
+        }
+      ],
+      "edges": [
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "left_of"
+        },
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "above"
+        }
+      ]
+    },
+    {
+      "frame": 43,
+      "time": 3.5833,
+      "nodes": [
+        {
+          "id": 2,
+          "label": "blue_object",
+          "color": "blue",
+          "bbox": [
+            0.26719,
+            0.47222,
+            0.07656,
+            0.11944
+          ]
+        },
+        {
+          "id": 3,
+          "label": "green_object",
+          "color": "green",
+          "bbox": [
+            0.45312,
+            0.75,
+            0.07969,
+            0.11389
+          ]
+        }
+      ],
+      "edges": [
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "left_of"
+        },
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "above"
+        }
+      ]
+    },
+    {
+      "frame": 44,
+      "time": 3.6667,
+      "nodes": [
+        {
+          "id": 2,
+          "label": "blue_object",
+          "color": "blue",
+          "bbox": [
+            0.25469,
+            0.47222,
+            0.07656,
+            0.11944
+          ]
+        },
+        {
+          "id": 3,
+          "label": "green_object",
+          "color": "green",
+          "bbox": [
+            0.45312,
+            0.75,
+            0.07969,
+            0.11389
+          ]
+        }
+      ],
+      "edges": [
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "left_of"
+        },
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "above"
+        }
+      ]
+    },
+    {
+      "frame": 45,
+      "time": 3.75,
+      "nodes": [
+        {
+          "id": 2,
+          "label": "blue_object",
+          "color": "blue",
+          "bbox": [
+            0.24063,
+            0.47222,
+            0.07656,
+            0.11944
+          ]
+        },
+        {
+          "id": 3,
+          "label": "green_object",
+          "color": "green",
+          "bbox": [
+            0.45312,
+            0.75,
+            0.07969,
+            0.11389
+          ]
+        }
+      ],
+      "edges": [
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "left_of"
+        },
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "above"
+        }
+      ]
+    },
+    {
+      "frame": 46,
+      "time": 3.8333,
+      "nodes": [
+        {
+          "id": 2,
+          "label": "blue_object",
+          "color": "blue",
+          "bbox": [
+            0.22812,
+            0.47222,
+            0.07656,
+            0.11944
+          ]
+        },
+        {
+          "id": 3,
+          "label": "green_object",
+          "color": "green",
+          "bbox": [
+            0.45312,
+            0.75,
+            0.07969,
+            0.11389
+          ]
+        }
+      ],
+      "edges": [
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "left_of"
+        },
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "above"
+        }
+      ]
+    },
+    {
+      "frame": 47,
+      "time": 3.9167,
+      "nodes": [
+        {
+          "id": 2,
+          "label": "blue_object",
+          "color": "blue",
+          "bbox": [
+            0.21563,
+            0.47222,
+            0.07656,
+            0.11944
+          ]
+        },
+        {
+          "id": 3,
+          "label": "green_object",
+          "color": "green",
+          "bbox": [
+            0.45312,
+            0.75,
+            0.07969,
+            0.11389
+          ]
+        }
+      ],
+      "edges": [
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "left_of"
+        },
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "above"
+        }
+      ]
+    },
+    {
+      "frame": 48,
+      "time": 4.0,
+      "nodes": [
+        {
+          "id": 2,
+          "label": "blue_object",
+          "color": "blue",
+          "bbox": [
+            0.20312,
+            0.47222,
+            0.07656,
+            0.11944
+          ]
+        },
+        {
+          "id": 3,
+          "label": "green_object",
+          "color": "green",
+          "bbox": [
+            0.45312,
+            0.75,
+            0.07969,
+            0.11389
+          ]
+        }
+      ],
+      "edges": [
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "left_of"
+        },
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "above"
+        }
+      ]
+    },
+    {
+      "frame": 49,
+      "time": 4.0833,
+      "nodes": [
+        {
+          "id": 2,
+          "label": "blue_object",
+          "color": "blue",
+          "bbox": [
+            0.19062,
+            0.47222,
+            0.07656,
+            0.11944
+          ]
+        },
+        {
+          "id": 3,
+          "label": "green_object",
+          "color": "green",
+          "bbox": [
+            0.45312,
+            0.75,
+            0.07969,
+            0.11389
+          ]
+        }
+      ],
+      "edges": [
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "left_of"
+        },
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "above"
+        }
+      ]
+    },
+    {
+      "frame": 50,
+      "time": 4.1667,
+      "nodes": [
+        {
+          "id": 2,
+          "label": "blue_object",
+          "color": "blue",
+          "bbox": [
+            0.17813,
+            0.47222,
+            0.07656,
+            0.11944
+          ]
+        },
+        {
+          "id": 3,
+          "label": "green_object",
+          "color": "green",
+          "bbox": [
+            0.45312,
+            0.75,
+            0.07969,
+            0.11389
+          ]
+        }
+      ],
+      "edges": [
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "left_of"
+        },
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "above"
+        }
+      ]
+    },
+    {
+      "frame": 51,
+      "time": 4.25,
+      "nodes": [
+        {
+          "id": 2,
+          "label": "blue_object",
+          "color": "blue",
+          "bbox": [
+            0.16562,
+            0.47222,
+            0.07656,
+            0.11944
+          ]
+        },
+        {
+          "id": 3,
+          "label": "green_object",
+          "color": "green",
+          "bbox": [
+            0.45312,
+            0.75,
+            0.07969,
+            0.11389
+          ]
+        }
+      ],
+      "edges": [
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "left_of"
+        },
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "above"
+        }
+      ]
+    },
+    {
+      "frame": 52,
+      "time": 4.3333,
+      "nodes": [
+        {
+          "id": 2,
+          "label": "blue_object",
+          "color": "blue",
+          "bbox": [
+            0.15156,
+            0.47222,
+            0.07656,
+            0.11944
+          ]
+        },
+        {
+          "id": 3,
+          "label": "green_object",
+          "color": "green",
+          "bbox": [
+            0.45312,
+            0.75,
+            0.07969,
+            0.11389
+          ]
+        }
+      ],
+      "edges": [
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "left_of"
+        },
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "above"
+        }
+      ]
+    },
+    {
+      "frame": 53,
+      "time": 4.4167,
+      "nodes": [
+        {
+          "id": 2,
+          "label": "blue_object",
+          "color": "blue",
+          "bbox": [
+            0.13906,
+            0.47222,
+            0.07656,
+            0.11944
+          ]
+        },
+        {
+          "id": 3,
+          "label": "green_object",
+          "color": "green",
+          "bbox": [
+            0.45312,
+            0.75,
+            0.07969,
+            0.11389
+          ]
+        }
+      ],
+      "edges": [
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "left_of"
+        },
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "above"
+        }
+      ]
+    },
+    {
+      "frame": 54,
+      "time": 4.5,
+      "nodes": [
+        {
+          "id": 2,
+          "label": "blue_object",
+          "color": "blue",
+          "bbox": [
+            0.12656,
+            0.47222,
+            0.07656,
+            0.11944
+          ]
+        },
+        {
+          "id": 3,
+          "label": "green_object",
+          "color": "green",
+          "bbox": [
+            0.45312,
+            0.75,
+            0.07969,
+            0.11389
+          ]
+        }
+      ],
+      "edges": [
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "left_of"
+        },
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "above"
+        }
+      ]
+    },
+    {
+      "frame": 55,
+      "time": 4.5833,
+      "nodes": [
+        {
+          "id": 2,
+          "label": "blue_object",
+          "color": "blue",
+          "bbox": [
+            0.11406,
+            0.47222,
+            0.07656,
+            0.11944
+          ]
+        },
+        {
+          "id": 3,
+          "label": "green_object",
+          "color": "green",
+          "bbox": [
+            0.45312,
+            0.75,
+            0.07969,
+            0.11389
+          ]
+        }
+      ],
+      "edges": [
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "left_of"
+        },
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "above"
+        }
+      ]
+    },
+    {
+      "frame": 56,
+      "time": 4.6667,
+      "nodes": [
+        {
+          "id": 2,
+          "label": "blue_object",
+          "color": "blue",
+          "bbox": [
+            0.10156,
+            0.47222,
+            0.07656,
+            0.11944
+          ]
+        },
+        {
+          "id": 3,
+          "label": "green_object",
+          "color": "green",
+          "bbox": [
+            0.45312,
+            0.75,
+            0.07969,
+            0.11389
+          ]
+        }
+      ],
+      "edges": [
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "left_of"
+        },
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "above"
+        }
+      ]
+    },
+    {
+      "frame": 57,
+      "time": 4.75,
+      "nodes": [
+        {
+          "id": 2,
+          "label": "blue_object",
+          "color": "blue",
+          "bbox": [
+            0.08906,
+            0.47222,
+            0.07656,
+            0.11944
+          ]
+        },
+        {
+          "id": 3,
+          "label": "green_object",
+          "color": "green",
+          "bbox": [
+            0.45312,
+            0.75,
+            0.07969,
+            0.11389
+          ]
+        }
+      ],
+      "edges": [
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "left_of"
+        },
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "above"
+        }
+      ]
+    },
+    {
+      "frame": 58,
+      "time": 4.8333,
+      "nodes": [
+        {
+          "id": 2,
+          "label": "blue_object",
+          "color": "blue",
+          "bbox": [
+            0.07656,
+            0.47222,
+            0.07656,
+            0.11944
+          ]
+        },
+        {
+          "id": 3,
+          "label": "green_object",
+          "color": "green",
+          "bbox": [
+            0.45312,
+            0.75,
+            0.07969,
+            0.11389
+          ]
+        }
+      ],
+      "edges": [
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "left_of"
+        },
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "above"
+        }
+      ]
+    },
+    {
+      "frame": 59,
+      "time": 4.9167,
+      "nodes": [
+        {
+          "id": 2,
+          "label": "blue_object",
+          "color": "blue",
+          "bbox": [
+            0.0625,
+            0.47222,
+            0.07656,
+            0.11944
+          ]
+        },
+        {
+          "id": 3,
+          "label": "green_object",
+          "color": "green",
+          "bbox": [
+            0.45312,
+            0.75,
+            0.07969,
+            0.11389
+          ]
+        }
+      ],
+      "edges": [
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "left_of"
+        },
+        {
+          "source": 2,
+          "target": 3,
+          "relation": "above"
+        }
+      ]
+    }
+  ]
+}
